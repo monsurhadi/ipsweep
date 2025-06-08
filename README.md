@@ -26,12 +26,15 @@
 
 Open your terminal and run the following commands:
 
-```bash
+
 # Clone the repository
+```bash
 git clone https://github.com/YOUR_USERNAME/ipsweep.git
-
+```
 # Navigate into the project directory
+```bash
 cd ipsweep
-
+```
 # Make the script executable
+```bash
 chmod +x ipsweep.sh
