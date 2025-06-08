@@ -24,8 +24,8 @@ read -p "🔹 Enter the IP base (e.g., 192.168.4): " IPBASE
 # Input Validation
 # ──────────────────────────────────────────────
 if [[ -z "$IPBASE" ]]; then
-    echo "❌ You forgot to enter an IP base!"
-    echo "✅ Example usage: ./ipsweep_tester.sh → then enter 192.168.4"
+    echo " You forgot to enter an IP base!"
+    echo " Example usage: ./ipsweep_tester.sh → then enter 192.168.4"
     exit 1
 fi
 
@@ -42,4 +42,4 @@ done
 
 wait
 echo ""
-echo "✅ Scan complete."
+echo " Scan complete."
