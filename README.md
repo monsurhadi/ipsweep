@@ -1,4 +1,4 @@
-# 🧭 ipsweep
+# ipsweep
 
 **ipsweep** is a lightweight Bash-based network scanning utility designed to quickly identify live hosts in a given subnet. It uses simple `ping` requests to determine if hosts are reachable.
 
