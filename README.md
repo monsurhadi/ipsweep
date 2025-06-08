@@ -29,7 +29,7 @@ Open your terminal and run the following commands:
 
 # Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/ipsweep.git
+git clone https://github.com/monsurhadi/ipsweep.git
 ```
 # Navigate into the project directory
 ```bash
